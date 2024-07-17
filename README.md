@@ -24,3 +24,7 @@ This project involves various SQL queries to join multiple tables, aggregate dat
 - Identify the most common pizza size ordered.
 - Group the orders by date and calculate the average number of pizzas ordered per day.
 - Calculate the percentage contribution of each pizza type to total revenue.
+
+  ## Schema
+  
+![Screenshot 2024-07-17 163317](https://github.com/user-attachments/assets/bb55c186-4010-4b7f-93d8-157b9fd7046e)
