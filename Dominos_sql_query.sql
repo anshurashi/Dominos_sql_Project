@@ -167,4 +167,3 @@ where rn<=3;
 
 
 
-# Question 1:
